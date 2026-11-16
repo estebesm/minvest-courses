@@ -1,0 +1,2984 @@
+{
+ "why": {
+  "audio": "audio/intro/why.wav",
+  "leadMs": 250,
+  "durationMs": 28281,
+  "captions": [
+   {
+    "text": "Представьте,",
+    "startMs": 11290,
+    "endMs": 12230,
+    "timestampMs": 11760,
+    "confidence": null
+   },
+   {
+    "text": "что",
+    "startMs": 12230,
+    "endMs": 12560,
+    "timestampMs": 12395,
+    "confidence": null
+   },
+   {
+    "text": "вы",
+    "startMs": 12560,
+    "endMs": 12590,
+    "timestampMs": 12575,
+    "confidence": null
+   },
+   {
+    "text": "хотите",
+    "startMs": 12590,
+    "endMs": 13030,
+    "timestampMs": 12810,
+    "confidence": null
+   },
+   {
+    "text": "купить",
+    "startMs": 13030,
+    "endMs": 13470,
+    "timestampMs": 13250,
+    "confidence": null
+   },
+   {
+    "text": "акцию",
+    "startMs": 13470,
+    "endMs": 13830,
+    "timestampMs": 13650,
+    "confidence": null
+   },
+   {
+    "text": "компании,",
+    "startMs": 13830,
+    "endMs": 14650,
+    "timestampMs": 14240,
+    "confidence": null
+   },
+   {
+    "text": "но",
+    "startMs": 14650,
+    "endMs": 14820,
+    "timestampMs": 14735,
+    "confidence": null
+   },
+   {
+    "text": "пока",
+    "startMs": 14820,
+    "endMs": 15140,
+    "timestampMs": 14980,
+    "confidence": null
+   },
+   {
+    "text": "не",
+    "startMs": 15140,
+    "endMs": 15300,
+    "timestampMs": 15220,
+    "confidence": null
+   },
+   {
+    "text": "знаете,",
+    "startMs": 15300,
+    "endMs": 15950,
+    "timestampMs": 15625,
+    "confidence": null
+   },
+   {
+    "text": "где",
+    "startMs": 15950,
+    "endMs": 16240,
+    "timestampMs": 16095,
+    "confidence": null
+   },
+   {
+    "text": "её",
+    "startMs": 16240,
+    "endMs": 16420,
+    "timestampMs": 16330,
+    "confidence": null
+   },
+   {
+    "text": "искать",
+    "startMs": 16420,
+    "endMs": 16850,
+    "timestampMs": 16635,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 16850,
+    "endMs": 17010,
+    "timestampMs": 16930,
+    "confidence": null
+   },
+   {
+    "text": "как",
+    "startMs": 17010,
+    "endMs": 17180,
+    "timestampMs": 17095,
+    "confidence": null
+   },
+   {
+    "text": "проходит",
+    "startMs": 17180,
+    "endMs": 17840,
+    "timestampMs": 17510,
+    "confidence": null
+   },
+   {
+    "text": "покупка.",
+    "startMs": 17840,
+    "endMs": 18730,
+    "timestampMs": 18285,
+    "confidence": null
+   },
+   {
+    "text": "Для",
+    "startMs": 18730,
+    "endMs": 19110,
+    "timestampMs": 18920,
+    "confidence": null
+   },
+   {
+    "text": "этого",
+    "startMs": 19110,
+    "endMs": 19630,
+    "timestampMs": 19370,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 19630,
+    "endMs": 19940,
+    "timestampMs": 19785,
+    "confidence": null
+   },
+   {
+    "text": "нужен",
+    "startMs": 19940,
+    "endMs": 20320,
+    "timestampMs": 20130,
+    "confidence": null
+   },
+   {
+    "text": "MInvest:",
+    "startMs": 20320,
+    "endMs": 21250,
+    "timestampMs": 20785,
+    "confidence": null
+   },
+   {
+    "text": "в",
+    "startMs": 21250,
+    "endMs": 21320,
+    "timestampMs": 21285,
+    "confidence": null
+   },
+   {
+    "text": "приложении",
+    "startMs": 21320,
+    "endMs": 22010,
+    "timestampMs": 21665,
+    "confidence": null
+   },
+   {
+    "text": "собраны",
+    "startMs": 22010,
+    "endMs": 22680,
+    "timestampMs": 22345,
+    "confidence": null
+   },
+   {
+    "text": "инструменты,",
+    "startMs": 22680,
+    "endMs": 23140,
+    "timestampMs": 22910,
+    "confidence": null
+   },
+   {
+    "text": "которые",
+    "startMs": 23140,
+    "endMs": 23610,
+    "timestampMs": 23375,
+    "confidence": null
+   },
+   {
+    "text": "помогают",
+    "startMs": 23610,
+    "endMs": 24180,
+    "timestampMs": 23895,
+    "confidence": null
+   },
+   {
+    "text": "постепенно",
+    "startMs": 24180,
+    "endMs": 24880,
+    "timestampMs": 24530,
+    "confidence": null
+   },
+   {
+    "text": "знакомиться",
+    "startMs": 24880,
+    "endMs": 25740,
+    "timestampMs": 25310,
+    "confidence": null
+   },
+   {
+    "text": "с",
+    "startMs": 25740,
+    "endMs": 25820,
+    "timestampMs": 25780,
+    "confidence": null
+   },
+   {
+    "text": "инвестициями",
+    "startMs": 25820,
+    "endMs": 26780,
+    "timestampMs": 26300,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 26780,
+    "endMs": 26860,
+    "timestampMs": 26820,
+    "confidence": null
+   },
+   {
+    "text": "управлять",
+    "startMs": 26860,
+    "endMs": 27580,
+    "timestampMs": 27220,
+    "confidence": null
+   },
+   {
+    "text": "своим",
+    "startMs": 27580,
+    "endMs": 28110,
+    "timestampMs": 27845,
+    "confidence": null
+   },
+   {
+    "text": "счётом.",
+    "startMs": 28110,
+    "endMs": 28530,
+    "timestampMs": 28320,
+    "confidence": null
+   }
+  ]
+ },
+ "what": {
+  "audio": "audio/intro/what.wav",
+  "leadMs": 250,
+  "durationMs": 31761,
+  "captions": [
+   {
+    "text": "MInvest",
+    "startMs": 13010,
+    "endMs": 13010,
+    "timestampMs": 13010,
+    "confidence": null
+   },
+   {
+    "text": "—",
+    "startMs": 13011,
+    "endMs": 13012,
+    "timestampMs": 13010,
+    "confidence": null
+   },
+   {
+    "text": "цифровой",
+    "startMs": 13012,
+    "endMs": 13430,
+    "timestampMs": 13220,
+    "confidence": null
+   },
+   {
+    "text": "брокерский",
+    "startMs": 13430,
+    "endMs": 14260,
+    "timestampMs": 13845,
+    "confidence": null
+   },
+   {
+    "text": "сервис",
+    "startMs": 14260,
+    "endMs": 14790,
+    "timestampMs": 14525,
+    "confidence": null
+   },
+   {
+    "text": "в",
+    "startMs": 14790,
+    "endMs": 14940,
+    "timestampMs": 14865,
+    "confidence": null
+   },
+   {
+    "text": "экосистеме",
+    "startMs": 14940,
+    "endMs": 15900,
+    "timestampMs": 15420,
+    "confidence": null
+   },
+   {
+    "text": "MBANK.",
+    "startMs": 15900,
+    "endMs": 16590,
+    "timestampMs": 16245,
+    "confidence": null
+   },
+   {
+    "text": "Им",
+    "startMs": 16590,
+    "endMs": 16760,
+    "timestampMs": 16675,
+    "confidence": null
+   },
+   {
+    "text": "можно",
+    "startMs": 16760,
+    "endMs": 17270,
+    "timestampMs": 17015,
+    "confidence": null
+   },
+   {
+    "text": "пользоваться",
+    "startMs": 17270,
+    "endMs": 18440,
+    "timestampMs": 17855,
+    "confidence": null
+   },
+   {
+    "text": "в",
+    "startMs": 18440,
+    "endMs": 18610,
+    "timestampMs": 18525,
+    "confidence": null
+   },
+   {
+    "text": "отдельном",
+    "startMs": 18610,
+    "endMs": 19410,
+    "timestampMs": 19010,
+    "confidence": null
+   },
+   {
+    "text": "приложении",
+    "startMs": 19410,
+    "endMs": 20540,
+    "timestampMs": 19975,
+    "confidence": null
+   },
+   {
+    "text": "или",
+    "startMs": 20540,
+    "endMs": 20680,
+    "timestampMs": 20610,
+    "confidence": null
+   },
+   {
+    "text": "перейти",
+    "startMs": 20680,
+    "endMs": 21350,
+    "timestampMs": 21015,
+    "confidence": null
+   },
+   {
+    "text": "к",
+    "startMs": 21350,
+    "endMs": 21440,
+    "timestampMs": 21395,
+    "confidence": null
+   },
+   {
+    "text": "нему",
+    "startMs": 21440,
+    "endMs": 21820,
+    "timestampMs": 21630,
+    "confidence": null
+   },
+   {
+    "text": "из",
+    "startMs": 21820,
+    "endMs": 22030,
+    "timestampMs": 21925,
+    "confidence": null
+   },
+   {
+    "text": "MBANK.",
+    "startMs": 22030,
+    "endMs": 23070,
+    "timestampMs": 22550,
+    "confidence": null
+   },
+   {
+    "text": "Через",
+    "startMs": 23450,
+    "endMs": 23870,
+    "timestampMs": 23660,
+    "confidence": null
+   },
+   {
+    "text": "MInvest",
+    "startMs": 23870,
+    "endMs": 24460,
+    "timestampMs": 24165,
+    "confidence": null
+   },
+   {
+    "text": "вы",
+    "startMs": 24460,
+    "endMs": 24570,
+    "timestampMs": 24515,
+    "confidence": null
+   },
+   {
+    "text": "можете",
+    "startMs": 24570,
+    "endMs": 25050,
+    "timestampMs": 24810,
+    "confidence": null
+   },
+   {
+    "text": "искать",
+    "startMs": 25050,
+    "endMs": 25530,
+    "timestampMs": 25290,
+    "confidence": null
+   },
+   {
+    "text": "инвестиционные",
+    "startMs": 25530,
+    "endMs": 26650,
+    "timestampMs": 26090,
+    "confidence": null
+   },
+   {
+    "text": "инструменты,",
+    "startMs": 26650,
+    "endMs": 27690,
+    "timestampMs": 27170,
+    "confidence": null
+   },
+   {
+    "text": "изучать",
+    "startMs": 27690,
+    "endMs": 28400,
+    "timestampMs": 28045,
+    "confidence": null
+   },
+   {
+    "text": "их",
+    "startMs": 28400,
+    "endMs": 28490,
+    "timestampMs": 28445,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 28490,
+    "endMs": 28520,
+    "timestampMs": 28505,
+    "confidence": null
+   },
+   {
+    "text": "отправлять",
+    "startMs": 28520,
+    "endMs": 29290,
+    "timestampMs": 28905,
+    "confidence": null
+   },
+   {
+    "text": "заявки",
+    "startMs": 29290,
+    "endMs": 29830,
+    "timestampMs": 29560,
+    "confidence": null
+   },
+   {
+    "text": "на",
+    "startMs": 29830,
+    "endMs": 29930,
+    "timestampMs": 29880,
+    "confidence": null
+   },
+   {
+    "text": "покупку",
+    "startMs": 29930,
+    "endMs": 30550,
+    "timestampMs": 30240,
+    "confidence": null
+   },
+   {
+    "text": "или",
+    "startMs": 30550,
+    "endMs": 30980,
+    "timestampMs": 30765,
+    "confidence": null
+   },
+   {
+    "text": "продажу.",
+    "startMs": 30980,
+    "endMs": 31590,
+    "timestampMs": 31285,
+    "confidence": null
+   }
+  ]
+ },
+ "exchanges": {
+  "audio": "audio/intro/exchanges.wav",
+  "leadMs": 250,
+  "durationMs": 32801,
+  "captions": [
+   {
+    "text": "Начать",
+    "startMs": 10250,
+    "endMs": 11060,
+    "timestampMs": 10655,
+    "confidence": null
+   },
+   {
+    "text": "можно",
+    "startMs": 11060,
+    "endMs": 11650,
+    "timestampMs": 11355,
+    "confidence": null
+   },
+   {
+    "text": "с",
+    "startMs": 11650,
+    "endMs": 11780,
+    "timestampMs": 11715,
+    "confidence": null
+   },
+   {
+    "text": "изучения",
+    "startMs": 11780,
+    "endMs": 12800,
+    "timestampMs": 12290,
+    "confidence": null
+   },
+   {
+    "text": "компаний.",
+    "startMs": 12800,
+    "endMs": 14250,
+    "timestampMs": 13525,
+    "confidence": null
+   },
+   {
+    "text": "В",
+    "startMs": 14250,
+    "endMs": 14320,
+    "timestampMs": 14285,
+    "confidence": null
+   },
+   {
+    "text": "приложении",
+    "startMs": 14320,
+    "endMs": 15100,
+    "timestampMs": 14710,
+    "confidence": null
+   },
+   {
+    "text": "доступны",
+    "startMs": 15100,
+    "endMs": 15690,
+    "timestampMs": 15395,
+    "confidence": null
+   },
+   {
+    "text": "акции,",
+    "startMs": 15690,
+    "endMs": 16250,
+    "timestampMs": 15970,
+    "confidence": null
+   },
+   {
+    "text": "торгующиеся",
+    "startMs": 16250,
+    "endMs": 17050,
+    "timestampMs": 16650,
+    "confidence": null
+   },
+   {
+    "text": "на",
+    "startMs": 17050,
+    "endMs": 17200,
+    "timestampMs": 17125,
+    "confidence": null
+   },
+   {
+    "text": "NASDAQ",
+    "startMs": 17200,
+    "endMs": 17690,
+    "timestampMs": 17445,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 17690,
+    "endMs": 17720,
+    "timestampMs": 17705,
+    "confidence": null
+   },
+   {
+    "text": "NYSE,",
+    "startMs": 17720,
+    "endMs": 18270,
+    "timestampMs": 17995,
+    "confidence": null
+   },
+   {
+    "text": "—",
+    "startMs": 18270,
+    "endMs": 18290,
+    "timestampMs": 18280,
+    "confidence": null
+   },
+   {
+    "text": "например,",
+    "startMs": 18290,
+    "endMs": 18730,
+    "timestampMs": 18510,
+    "confidence": null
+   },
+   {
+    "text": "бумаги",
+    "startMs": 18730,
+    "endMs": 19200,
+    "timestampMs": 18965,
+    "confidence": null
+   },
+   {
+    "text": "крупных",
+    "startMs": 19200,
+    "endMs": 19690,
+    "timestampMs": 19445,
+    "confidence": null
+   },
+   {
+    "text": "американских",
+    "startMs": 19690,
+    "endMs": 19980,
+    "timestampMs": 19835,
+    "confidence": null
+   },
+   {
+    "text": "компаний.",
+    "startMs": 19980,
+    "endMs": 20250,
+    "timestampMs": 20115,
+    "confidence": null
+   },
+   {
+    "text": "Это",
+    "startMs": 20250,
+    "endMs": 20710,
+    "timestampMs": 20480,
+    "confidence": null
+   },
+   {
+    "text": "две",
+    "startMs": 20710,
+    "endMs": 21170,
+    "timestampMs": 20940,
+    "confidence": null
+   },
+   {
+    "text": "биржи,",
+    "startMs": 21170,
+    "endMs": 22250,
+    "timestampMs": 21710,
+    "confidence": null
+   },
+   {
+    "text": "а",
+    "startMs": 22250,
+    "endMs": 22360,
+    "timestampMs": 22305,
+    "confidence": null
+   },
+   {
+    "text": "не",
+    "startMs": 22360,
+    "endMs": 22570,
+    "timestampMs": 22465,
+    "confidence": null
+   },
+   {
+    "text": "весь",
+    "startMs": 22570,
+    "endMs": 23050,
+    "timestampMs": 22810,
+    "confidence": null
+   },
+   {
+    "text": "мировой",
+    "startMs": 23050,
+    "endMs": 23370,
+    "timestampMs": 23210,
+    "confidence": null
+   },
+   {
+    "text": "рынок:",
+    "startMs": 23370,
+    "endMs": 24270,
+    "timestampMs": 23820,
+    "confidence": null
+   },
+   {
+    "text": "бирж",
+    "startMs": 24270,
+    "endMs": 24500,
+    "timestampMs": 24385,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 24500,
+    "endMs": 24590,
+    "timestampMs": 24545,
+    "confidence": null
+   },
+   {
+    "text": "компаний",
+    "startMs": 24590,
+    "endMs": 25190,
+    "timestampMs": 24890,
+    "confidence": null
+   },
+   {
+    "text": "гораздо",
+    "startMs": 25190,
+    "endMs": 25610,
+    "timestampMs": 25400,
+    "confidence": null
+   },
+   {
+    "text": "больше.",
+    "startMs": 25610,
+    "endMs": 26250,
+    "timestampMs": 25930,
+    "confidence": null
+   },
+   {
+    "text": "Список",
+    "startMs": 26250,
+    "endMs": 26700,
+    "timestampMs": 26475,
+    "confidence": null
+   },
+   {
+    "text": "доступных",
+    "startMs": 26700,
+    "endMs": 27300,
+    "timestampMs": 27000,
+    "confidence": null
+   },
+   {
+    "text": "инструментов",
+    "startMs": 27300,
+    "endMs": 28150,
+    "timestampMs": 27725,
+    "confidence": null
+   },
+   {
+    "text": "может",
+    "startMs": 28150,
+    "endMs": 28500,
+    "timestampMs": 28325,
+    "confidence": null
+   },
+   {
+    "text": "меняться,",
+    "startMs": 28500,
+    "endMs": 29250,
+    "timestampMs": 28875,
+    "confidence": null
+   },
+   {
+    "text": "поэтому",
+    "startMs": 29250,
+    "endMs": 29530,
+    "timestampMs": 29390,
+    "confidence": null
+   },
+   {
+    "text": "актуальные",
+    "startMs": 29530,
+    "endMs": 29910,
+    "timestampMs": 29720,
+    "confidence": null
+   },
+   {
+    "text": "варианты",
+    "startMs": 29910,
+    "endMs": 30250,
+    "timestampMs": 30080,
+    "confidence": null
+   },
+   {
+    "text": "всегда",
+    "startMs": 30250,
+    "endMs": 30620,
+    "timestampMs": 30435,
+    "confidence": null
+   },
+   {
+    "text": "можно",
+    "startMs": 30620,
+    "endMs": 30950,
+    "timestampMs": 30785,
+    "confidence": null
+   },
+   {
+    "text": "посмотреть",
+    "startMs": 30950,
+    "endMs": 31550,
+    "timestampMs": 31250,
+    "confidence": null
+   },
+   {
+    "text": "в",
+    "startMs": 31550,
+    "endMs": 31630,
+    "timestampMs": 31590,
+    "confidence": null
+   },
+   {
+    "text": "приложении.",
+    "startMs": 31630,
+    "endMs": 32250,
+    "timestampMs": 31940,
+    "confidence": null
+   }
+  ]
+ },
+ "company": {
+  "audio": "audio/intro/company.wav",
+  "leadMs": 250,
+  "durationMs": 30641,
+  "captions": [
+   {
+    "text": "Откройте",
+    "startMs": 10150,
+    "endMs": 10720,
+    "timestampMs": 10435,
+    "confidence": null
+   },
+   {
+    "text": "страницу",
+    "startMs": 10720,
+    "endMs": 11300,
+    "timestampMs": 11010,
+    "confidence": null
+   },
+   {
+    "text": "компании:",
+    "startMs": 11300,
+    "endMs": 12110,
+    "timestampMs": 11705,
+    "confidence": null
+   },
+   {
+    "text": "там",
+    "startMs": 12110,
+    "endMs": 12330,
+    "timestampMs": 12220,
+    "confidence": null
+   },
+   {
+    "text": "можно",
+    "startMs": 12330,
+    "endMs": 12700,
+    "timestampMs": 12515,
+    "confidence": null
+   },
+   {
+    "text": "изучить",
+    "startMs": 12700,
+    "endMs": 13220,
+    "timestampMs": 12960,
+    "confidence": null
+   },
+   {
+    "text": "информацию",
+    "startMs": 13220,
+    "endMs": 13950,
+    "timestampMs": 13585,
+    "confidence": null
+   },
+   {
+    "text": "о",
+    "startMs": 13950,
+    "endMs": 14030,
+    "timestampMs": 13990,
+    "confidence": null
+   },
+   {
+    "text": "ней,",
+    "startMs": 14030,
+    "endMs": 14530,
+    "timestampMs": 14280,
+    "confidence": null
+   },
+   {
+    "text": "посмотреть",
+    "startMs": 14530,
+    "endMs": 15160,
+    "timestampMs": 14845,
+    "confidence": null
+   },
+   {
+    "text": "аналитику",
+    "startMs": 15160,
+    "endMs": 15780,
+    "timestampMs": 15470,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 15780,
+    "endMs": 15850,
+    "timestampMs": 15815,
+    "confidence": null
+   },
+   {
+    "text": "почитать",
+    "startMs": 15850,
+    "endMs": 16440,
+    "timestampMs": 16145,
+    "confidence": null
+   },
+   {
+    "text": "новости.",
+    "startMs": 16440,
+    "endMs": 17350,
+    "timestampMs": 16895,
+    "confidence": null
+   },
+   {
+    "text": "Используйте",
+    "startMs": 17350,
+    "endMs": 18350,
+    "timestampMs": 17850,
+    "confidence": null
+   },
+   {
+    "text": "эти",
+    "startMs": 18350,
+    "endMs": 18810,
+    "timestampMs": 18580,
+    "confidence": null
+   },
+   {
+    "text": "материалы,",
+    "startMs": 18810,
+    "endMs": 19250,
+    "timestampMs": 19030,
+    "confidence": null
+   },
+   {
+    "text": "чтобы",
+    "startMs": 19250,
+    "endMs": 19560,
+    "timestampMs": 19405,
+    "confidence": null
+   },
+   {
+    "text": "лучше",
+    "startMs": 19560,
+    "endMs": 19890,
+    "timestampMs": 19725,
+    "confidence": null
+   },
+   {
+    "text": "понять",
+    "startMs": 19890,
+    "endMs": 20250,
+    "timestampMs": 20070,
+    "confidence": null
+   },
+   {
+    "text": "бизнес,",
+    "startMs": 20250,
+    "endMs": 20670,
+    "timestampMs": 20460,
+    "confidence": null
+   },
+   {
+    "text": "его",
+    "startMs": 20670,
+    "endMs": 21000,
+    "timestampMs": 20835,
+    "confidence": null
+   },
+   {
+    "text": "результаты",
+    "startMs": 21000,
+    "endMs": 21750,
+    "timestampMs": 21375,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 21750,
+    "endMs": 21850,
+    "timestampMs": 21800,
+    "confidence": null
+   },
+   {
+    "text": "события,",
+    "startMs": 21850,
+    "endMs": 22940,
+    "timestampMs": 22395,
+    "confidence": null
+   },
+   {
+    "text": "которые",
+    "startMs": 22940,
+    "endMs": 22980,
+    "timestampMs": 22960,
+    "confidence": null
+   },
+   {
+    "text": "могут",
+    "startMs": 22980,
+    "endMs": 23200,
+    "timestampMs": 23090,
+    "confidence": null
+   },
+   {
+    "text": "повлиять",
+    "startMs": 23200,
+    "endMs": 23630,
+    "timestampMs": 23415,
+    "confidence": null
+   },
+   {
+    "text": "на",
+    "startMs": 23630,
+    "endMs": 23720,
+    "timestampMs": 23675,
+    "confidence": null
+   },
+   {
+    "text": "компанию.",
+    "startMs": 23720,
+    "endMs": 24350,
+    "timestampMs": 24035,
+    "confidence": null
+   },
+   {
+    "text": "Чем",
+    "startMs": 24350,
+    "endMs": 24570,
+    "timestampMs": 24460,
+    "confidence": null
+   },
+   {
+    "text": "больше",
+    "startMs": 24570,
+    "endMs": 25030,
+    "timestampMs": 24800,
+    "confidence": null
+   },
+   {
+    "text": "вы",
+    "startMs": 25030,
+    "endMs": 25180,
+    "timestampMs": 25105,
+    "confidence": null
+   },
+   {
+    "text": "знаете",
+    "startMs": 25180,
+    "endMs": 25640,
+    "timestampMs": 25410,
+    "confidence": null
+   },
+   {
+    "text": "об",
+    "startMs": 25640,
+    "endMs": 25790,
+    "timestampMs": 25715,
+    "confidence": null
+   },
+   {
+    "text": "инструменте,",
+    "startMs": 25790,
+    "endMs": 26850,
+    "timestampMs": 26320,
+    "confidence": null
+   },
+   {
+    "text": "тем",
+    "startMs": 26850,
+    "endMs": 27070,
+    "timestampMs": 26960,
+    "confidence": null
+   },
+   {
+    "text": "увереннее",
+    "startMs": 27070,
+    "endMs": 27720,
+    "timestampMs": 27395,
+    "confidence": null
+   },
+   {
+    "text": "можете",
+    "startMs": 27720,
+    "endMs": 28150,
+    "timestampMs": 27935,
+    "confidence": null
+   },
+   {
+    "text": "оценить,",
+    "startMs": 28150,
+    "endMs": 28850,
+    "timestampMs": 28500,
+    "confidence": null
+   },
+   {
+    "text": "подходит",
+    "startMs": 28850,
+    "endMs": 29620,
+    "timestampMs": 29235,
+    "confidence": null
+   },
+   {
+    "text": "ли",
+    "startMs": 29620,
+    "endMs": 29760,
+    "timestampMs": 29690,
+    "confidence": null
+   },
+   {
+    "text": "он",
+    "startMs": 29760,
+    "endMs": 29980,
+    "timestampMs": 29870,
+    "confidence": null
+   },
+   {
+    "text": "вашим",
+    "startMs": 29980,
+    "endMs": 30420,
+    "timestampMs": 30200,
+    "confidence": null
+   },
+   {
+    "text": "целям.",
+    "startMs": 30420,
+    "endMs": 30890,
+    "timestampMs": 30655,
+    "confidence": null
+   }
+  ]
+ },
+ "search": {
+  "audio": "audio/intro/search.wav",
+  "leadMs": 250,
+  "durationMs": 32721,
+  "captions": [
+   {
+    "text": "Если",
+    "startMs": 11490,
+    "endMs": 11890,
+    "timestampMs": 11690,
+    "confidence": null
+   },
+   {
+    "text": "пока",
+    "startMs": 11890,
+    "endMs": 12290,
+    "timestampMs": 12090,
+    "confidence": null
+   },
+   {
+    "text": "сложно",
+    "startMs": 12290,
+    "endMs": 12900,
+    "timestampMs": 12595,
+    "confidence": null
+   },
+   {
+    "text": "выбрать",
+    "startMs": 12900,
+    "endMs": 13600,
+    "timestampMs": 13250,
+    "confidence": null
+   },
+   {
+    "text": "акции",
+    "startMs": 13600,
+    "endMs": 14100,
+    "timestampMs": 13850,
+    "confidence": null
+   },
+   {
+    "text": "самостоятельно,",
+    "startMs": 14100,
+    "endMs": 15690,
+    "timestampMs": 14895,
+    "confidence": null
+   },
+   {
+    "text": "воспользуйтесь",
+    "startMs": 15690,
+    "endMs": 17110,
+    "timestampMs": 16400,
+    "confidence": null
+   },
+   {
+    "text": "Инвест-поиском:",
+    "startMs": 17110,
+    "endMs": 18940,
+    "timestampMs": 18025,
+    "confidence": null
+   },
+   {
+    "text": "он",
+    "startMs": 18940,
+    "endMs": 19100,
+    "timestampMs": 19020,
+    "confidence": null
+   },
+   {
+    "text": "поможет",
+    "startMs": 19100,
+    "endMs": 19690,
+    "timestampMs": 19395,
+    "confidence": null
+   },
+   {
+    "text": "найти",
+    "startMs": 19690,
+    "endMs": 20250,
+    "timestampMs": 19970,
+    "confidence": null
+   },
+   {
+    "text": "отдельные",
+    "startMs": 20250,
+    "endMs": 20650,
+    "timestampMs": 20450,
+    "confidence": null
+   },
+   {
+    "text": "бумаги",
+    "startMs": 20650,
+    "endMs": 21230,
+    "timestampMs": 20940,
+    "confidence": null
+   },
+   {
+    "text": "по",
+    "startMs": 21230,
+    "endMs": 21310,
+    "timestampMs": 21270,
+    "confidence": null
+   },
+   {
+    "text": "заданным",
+    "startMs": 21310,
+    "endMs": 21850,
+    "timestampMs": 21580,
+    "confidence": null
+   },
+   {
+    "text": "параметрам",
+    "startMs": 21850,
+    "endMs": 22450,
+    "timestampMs": 22150,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 22450,
+    "endMs": 22530,
+    "timestampMs": 22490,
+    "confidence": null
+   },
+   {
+    "text": "фильтрам.",
+    "startMs": 22530,
+    "endMs": 23210,
+    "timestampMs": 22870,
+    "confidence": null
+   },
+   {
+    "text": "Также",
+    "startMs": 23210,
+    "endMs": 23690,
+    "timestampMs": 23450,
+    "confidence": null
+   },
+   {
+    "text": "можно",
+    "startMs": 23690,
+    "endMs": 24130,
+    "timestampMs": 23910,
+    "confidence": null
+   },
+   {
+    "text": "посмотреть",
+    "startMs": 24130,
+    "endMs": 25010,
+    "timestampMs": 24570,
+    "confidence": null
+   },
+   {
+    "text": "готовые",
+    "startMs": 25010,
+    "endMs": 25640,
+    "timestampMs": 25325,
+    "confidence": null
+   },
+   {
+    "text": "подборки",
+    "startMs": 25640,
+    "endMs": 26360,
+    "timestampMs": 26000,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 26360,
+    "endMs": 26450,
+    "timestampMs": 26405,
+    "confidence": null
+   },
+   {
+    "text": "инвестиционные",
+    "startMs": 26450,
+    "endMs": 27700,
+    "timestampMs": 27075,
+    "confidence": null
+   },
+   {
+    "text": "идеи",
+    "startMs": 27700,
+    "endMs": 28060,
+    "timestampMs": 27880,
+    "confidence": null
+   },
+   {
+    "text": "—",
+    "startMs": 28060,
+    "endMs": 28350,
+    "timestampMs": 28205,
+    "confidence": null
+   },
+   {
+    "text": "они",
+    "startMs": 28350,
+    "endMs": 28420,
+    "timestampMs": 28385,
+    "confidence": null
+   },
+   {
+    "text": "помогут",
+    "startMs": 28420,
+    "endMs": 28950,
+    "timestampMs": 28685,
+    "confidence": null
+   },
+   {
+    "text": "сориентироваться",
+    "startMs": 28950,
+    "endMs": 30060,
+    "timestampMs": 29505,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 30060,
+    "endMs": 30130,
+    "timestampMs": 30095,
+    "confidence": null
+   },
+   {
+    "text": "открыть",
+    "startMs": 30130,
+    "endMs": 30820,
+    "timestampMs": 30475,
+    "confidence": null
+   },
+   {
+    "text": "для",
+    "startMs": 30820,
+    "endMs": 30840,
+    "timestampMs": 30830,
+    "confidence": null
+   },
+   {
+    "text": "себя",
+    "startMs": 30840,
+    "endMs": 31130,
+    "timestampMs": 30985,
+    "confidence": null
+   },
+   {
+    "text": "разные",
+    "startMs": 31130,
+    "endMs": 31600,
+    "timestampMs": 31365,
+    "confidence": null
+   },
+   {
+    "text": "варианты.",
+    "startMs": 31600,
+    "endMs": 32450,
+    "timestampMs": 32025,
+    "confidence": null
+   }
+  ]
+ },
+ "constructor": {
+  "audio": "audio/intro/constructor.wav",
+  "leadMs": 250,
+  "durationMs": 33401,
+  "captions": [
+   {
+    "text": "А",
+    "startMs": 11870,
+    "endMs": 11870,
+    "timestampMs": 11870,
+    "confidence": null
+   },
+   {
+    "text": "если",
+    "startMs": 11871,
+    "endMs": 11872,
+    "timestampMs": 11870,
+    "confidence": null
+   },
+   {
+    "text": "хотите",
+    "startMs": 11872,
+    "endMs": 11873,
+    "timestampMs": 11870,
+    "confidence": null
+   },
+   {
+    "text": "собрать",
+    "startMs": 11873,
+    "endMs": 12170,
+    "timestampMs": 12020,
+    "confidence": null
+   },
+   {
+    "text": "портфель",
+    "startMs": 12170,
+    "endMs": 12720,
+    "timestampMs": 12445,
+    "confidence": null
+   },
+   {
+    "text": "под",
+    "startMs": 12720,
+    "endMs": 12890,
+    "timestampMs": 12805,
+    "confidence": null
+   },
+   {
+    "text": "свои",
+    "startMs": 12890,
+    "endMs": 13210,
+    "timestampMs": 13050,
+    "confidence": null
+   },
+   {
+    "text": "параметры,",
+    "startMs": 13210,
+    "endMs": 14030,
+    "timestampMs": 13620,
+    "confidence": null
+   },
+   {
+    "text": "воспользуйтесь",
+    "startMs": 14030,
+    "endMs": 15090,
+    "timestampMs": 14560,
+    "confidence": null
+   },
+   {
+    "text": "конструктором.",
+    "startMs": 15090,
+    "endMs": 16350,
+    "timestampMs": 15720,
+    "confidence": null
+   },
+   {
+    "text": "Укажите",
+    "startMs": 16350,
+    "endMs": 16950,
+    "timestampMs": 16650,
+    "confidence": null
+   },
+   {
+    "text": "сумму,",
+    "startMs": 16950,
+    "endMs": 17480,
+    "timestampMs": 17215,
+    "confidence": null
+   },
+   {
+    "text": "выберите",
+    "startMs": 17480,
+    "endMs": 18160,
+    "timestampMs": 17820,
+    "confidence": null
+   },
+   {
+    "text": "цель",
+    "startMs": 18160,
+    "endMs": 18390,
+    "timestampMs": 18275,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 18390,
+    "endMs": 18460,
+    "timestampMs": 18425,
+    "confidence": null
+   },
+   {
+    "text": "срок,",
+    "startMs": 18460,
+    "endMs": 18910,
+    "timestampMs": 18685,
+    "confidence": null
+   },
+   {
+    "text": "настройте",
+    "startMs": 18910,
+    "endMs": 19600,
+    "timestampMs": 19255,
+    "confidence": null
+   },
+   {
+    "text": "желаемые",
+    "startMs": 19600,
+    "endMs": 20210,
+    "timestampMs": 19905,
+    "confidence": null
+   },
+   {
+    "text": "уровни",
+    "startMs": 20210,
+    "endMs": 20900,
+    "timestampMs": 20555,
+    "confidence": null
+   },
+   {
+    "text": "риска",
+    "startMs": 20900,
+    "endMs": 21050,
+    "timestampMs": 20975,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 21050,
+    "endMs": 21120,
+    "timestampMs": 21085,
+    "confidence": null
+   },
+   {
+    "text": "доходности",
+    "startMs": 21120,
+    "endMs": 21890,
+    "timestampMs": 21505,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 21890,
+    "endMs": 21960,
+    "timestampMs": 21925,
+    "confidence": null
+   },
+   {
+    "text": "другие",
+    "startMs": 21960,
+    "endMs": 22420,
+    "timestampMs": 22190,
+    "confidence": null
+   },
+   {
+    "text": "фильтры",
+    "startMs": 22420,
+    "endMs": 23490,
+    "timestampMs": 22955,
+    "confidence": null
+   },
+   {
+    "text": "—",
+    "startMs": 23490,
+    "endMs": 23980,
+    "timestampMs": 23735,
+    "confidence": null
+   },
+   {
+    "text": "MInvest",
+    "startMs": 23980,
+    "endMs": 24470,
+    "timestampMs": 24225,
+    "confidence": null
+   },
+   {
+    "text": "подберёт",
+    "startMs": 24470,
+    "endMs": 25040,
+    "timestampMs": 24755,
+    "confidence": null
+   },
+   {
+    "text": "бумаги",
+    "startMs": 25040,
+    "endMs": 25470,
+    "timestampMs": 25255,
+    "confidence": null
+   },
+   {
+    "text": "по",
+    "startMs": 25470,
+    "endMs": 25610,
+    "timestampMs": 25540,
+    "confidence": null
+   },
+   {
+    "text": "этим",
+    "startMs": 25610,
+    "endMs": 25900,
+    "timestampMs": 25755,
+    "confidence": null
+   },
+   {
+    "text": "условиям.",
+    "startMs": 25900,
+    "endMs": 26800,
+    "timestampMs": 26350,
+    "confidence": null
+   },
+   {
+    "text": "Изучите",
+    "startMs": 26800,
+    "endMs": 27280,
+    "timestampMs": 27040,
+    "confidence": null
+   },
+   {
+    "text": "состав",
+    "startMs": 27280,
+    "endMs": 27700,
+    "timestampMs": 27490,
+    "confidence": null
+   },
+   {
+    "text": "подборки",
+    "startMs": 27700,
+    "endMs": 28260,
+    "timestampMs": 27980,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 28260,
+    "endMs": 28400,
+    "timestampMs": 28330,
+    "confidence": null
+   },
+   {
+    "text": "долю",
+    "startMs": 28400,
+    "endMs": 28620,
+    "timestampMs": 28510,
+    "confidence": null
+   },
+   {
+    "text": "каждого",
+    "startMs": 28620,
+    "endMs": 29100,
+    "timestampMs": 28860,
+    "confidence": null
+   },
+   {
+    "text": "актива,",
+    "startMs": 29100,
+    "endMs": 29660,
+    "timestampMs": 29380,
+    "confidence": null
+   },
+   {
+    "text": "чтобы",
+    "startMs": 29660,
+    "endMs": 30000,
+    "timestampMs": 29830,
+    "confidence": null
+   },
+   {
+    "text": "понять,",
+    "startMs": 30000,
+    "endMs": 30780,
+    "timestampMs": 30390,
+    "confidence": null
+   },
+   {
+    "text": "как",
+    "startMs": 30780,
+    "endMs": 30820,
+    "timestampMs": 30800,
+    "confidence": null
+   },
+   {
+    "text": "портфель",
+    "startMs": 30820,
+    "endMs": 31340,
+    "timestampMs": 31080,
+    "confidence": null
+   },
+   {
+    "text": "соответствует",
+    "startMs": 31340,
+    "endMs": 32250,
+    "timestampMs": 31795,
+    "confidence": null
+   },
+   {
+    "text": "вашему",
+    "startMs": 32250,
+    "endMs": 32880,
+    "timestampMs": 32565,
+    "confidence": null
+   },
+   {
+    "text": "плану.",
+    "startMs": 32880,
+    "endMs": 33250,
+    "timestampMs": 33065,
+    "confidence": null
+   }
+  ]
+ },
+ "crypto": {
+  "audio": "audio/intro/crypto.wav",
+  "leadMs": 250,
+  "durationMs": 24401,
+  "captions": [
+   {
+    "text": "В",
+    "startMs": 10850,
+    "endMs": 11010,
+    "timestampMs": 10930,
+    "confidence": null
+   },
+   {
+    "text": "MInvest",
+    "startMs": 11010,
+    "endMs": 11570,
+    "timestampMs": 11290,
+    "confidence": null
+   },
+   {
+    "text": "можно",
+    "startMs": 11570,
+    "endMs": 11910,
+    "timestampMs": 11740,
+    "confidence": null
+   },
+   {
+    "text": "работать",
+    "startMs": 11910,
+    "endMs": 12570,
+    "timestampMs": 12240,
+    "confidence": null
+   },
+   {
+    "text": "не",
+    "startMs": 12570,
+    "endMs": 12770,
+    "timestampMs": 12670,
+    "confidence": null
+   },
+   {
+    "text": "только",
+    "startMs": 12770,
+    "endMs": 13220,
+    "timestampMs": 12995,
+    "confidence": null
+   },
+   {
+    "text": "с",
+    "startMs": 13220,
+    "endMs": 13380,
+    "timestampMs": 13300,
+    "confidence": null
+   },
+   {
+    "text": "ценными",
+    "startMs": 13380,
+    "endMs": 13870,
+    "timestampMs": 13625,
+    "confidence": null
+   },
+   {
+    "text": "бумагами,",
+    "startMs": 13870,
+    "endMs": 14670,
+    "timestampMs": 14270,
+    "confidence": null
+   },
+   {
+    "text": "но",
+    "startMs": 14670,
+    "endMs": 14830,
+    "timestampMs": 14750,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 14830,
+    "endMs": 14920,
+    "timestampMs": 14875,
+    "confidence": null
+   },
+   {
+    "text": "с",
+    "startMs": 14920,
+    "endMs": 14990,
+    "timestampMs": 14955,
+    "confidence": null
+   },
+   {
+    "text": "криптовалютой:",
+    "startMs": 14990,
+    "endMs": 16250,
+    "timestampMs": 15620,
+    "confidence": null
+   },
+   {
+    "text": "покупать,",
+    "startMs": 16250,
+    "endMs": 17130,
+    "timestampMs": 16690,
+    "confidence": null
+   },
+   {
+    "text": "продавать,",
+    "startMs": 17130,
+    "endMs": 17930,
+    "timestampMs": 17530,
+    "confidence": null
+   },
+   {
+    "text": "хранить",
+    "startMs": 17930,
+    "endMs": 18440,
+    "timestampMs": 18185,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 18440,
+    "endMs": 18510,
+    "timestampMs": 18475,
+    "confidence": null
+   },
+   {
+    "text": "переводить",
+    "startMs": 18510,
+    "endMs": 19250,
+    "timestampMs": 18880,
+    "confidence": null
+   },
+   {
+    "text": "цифровые",
+    "startMs": 19250,
+    "endMs": 19810,
+    "timestampMs": 19530,
+    "confidence": null
+   },
+   {
+    "text": "активы,",
+    "startMs": 19810,
+    "endMs": 20490,
+    "timestampMs": 20150,
+    "confidence": null
+   },
+   {
+    "text": "например",
+    "startMs": 20490,
+    "endMs": 21650,
+    "timestampMs": 21070,
+    "confidence": null
+   },
+   {
+    "text": "Bitcoin,",
+    "startMs": 21650,
+    "endMs": 22440,
+    "timestampMs": 22045,
+    "confidence": null
+   },
+   {
+    "text": "Ethereum,",
+    "startMs": 22440,
+    "endMs": 23680,
+    "timestampMs": 23060,
+    "confidence": null
+   },
+   {
+    "text": "Tron",
+    "startMs": 23680,
+    "endMs": 24050,
+    "timestampMs": 23865,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 24050,
+    "endMs": 24180,
+    "timestampMs": 24115,
+    "confidence": null
+   },
+   {
+    "text": "USDT.",
+    "startMs": 24180,
+    "endMs": 24650,
+    "timestampMs": 24415,
+    "confidence": null
+   }
+  ]
+ },
+ "crypto-vs-stock": {
+  "audio": "audio/intro/crypto-vs-stock.wav",
+  "leadMs": 250,
+  "durationMs": 31401,
+  "captions": [
+   {
+    "text": "Акция",
+    "startMs": 12510,
+    "endMs": 13020,
+    "timestampMs": 12765,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 13020,
+    "endMs": 13070,
+    "timestampMs": 13045,
+    "confidence": null
+   },
+   {
+    "text": "криптовалюта",
+    "startMs": 13070,
+    "endMs": 14220,
+    "timestampMs": 13645,
+    "confidence": null
+   },
+   {
+    "text": "устроены",
+    "startMs": 14220,
+    "endMs": 14970,
+    "timestampMs": 14595,
+    "confidence": null
+   },
+   {
+    "text": "по-разному:",
+    "startMs": 14970,
+    "endMs": 16010,
+    "timestampMs": 15490,
+    "confidence": null
+   },
+   {
+    "text": "акция",
+    "startMs": 16010,
+    "endMs": 16490,
+    "timestampMs": 16250,
+    "confidence": null
+   },
+   {
+    "text": "связана",
+    "startMs": 16490,
+    "endMs": 17160,
+    "timestampMs": 16825,
+    "confidence": null
+   },
+   {
+    "text": "с",
+    "startMs": 17160,
+    "endMs": 17250,
+    "timestampMs": 17205,
+    "confidence": null
+   },
+   {
+    "text": "долей",
+    "startMs": 17250,
+    "endMs": 17770,
+    "timestampMs": 17510,
+    "confidence": null
+   },
+   {
+    "text": "в",
+    "startMs": 17770,
+    "endMs": 17820,
+    "timestampMs": 17795,
+    "confidence": null
+   },
+   {
+    "text": "компании,",
+    "startMs": 17820,
+    "endMs": 18860,
+    "timestampMs": 18340,
+    "confidence": null
+   },
+   {
+    "text": "а",
+    "startMs": 18860,
+    "endMs": 18870,
+    "timestampMs": 18865,
+    "confidence": null
+   },
+   {
+    "text": "криптовалюта",
+    "startMs": 18870,
+    "endMs": 20070,
+    "timestampMs": 19470,
+    "confidence": null
+   },
+   {
+    "text": "—",
+    "startMs": 20070,
+    "endMs": 20320,
+    "timestampMs": 20195,
+    "confidence": null
+   },
+   {
+    "text": "это",
+    "startMs": 20320,
+    "endMs": 20390,
+    "timestampMs": 20355,
+    "confidence": null
+   },
+   {
+    "text": "цифровой",
+    "startMs": 20390,
+    "endMs": 21380,
+    "timestampMs": 20885,
+    "confidence": null
+   },
+   {
+    "text": "актив.",
+    "startMs": 21380,
+    "endMs": 22150,
+    "timestampMs": 21765,
+    "confidence": null
+   },
+   {
+    "text": "Поскольку",
+    "startMs": 22150,
+    "endMs": 22940,
+    "timestampMs": 22545,
+    "confidence": null
+   },
+   {
+    "text": "её",
+    "startMs": 22940,
+    "endMs": 23130,
+    "timestampMs": 23035,
+    "confidence": null
+   },
+   {
+    "text": "стоимость",
+    "startMs": 23130,
+    "endMs": 23690,
+    "timestampMs": 23410,
+    "confidence": null
+   },
+   {
+    "text": "может",
+    "startMs": 23690,
+    "endMs": 24070,
+    "timestampMs": 23880,
+    "confidence": null
+   },
+   {
+    "text": "меняться",
+    "startMs": 24070,
+    "endMs": 24580,
+    "timestampMs": 24325,
+    "confidence": null
+   },
+   {
+    "text": "быстро,",
+    "startMs": 24580,
+    "endMs": 25130,
+    "timestampMs": 24855,
+    "confidence": null
+   },
+   {
+    "text": "полезно",
+    "startMs": 25130,
+    "endMs": 25780,
+    "timestampMs": 25455,
+    "confidence": null
+   },
+   {
+    "text": "заранее",
+    "startMs": 25780,
+    "endMs": 26500,
+    "timestampMs": 26140,
+    "confidence": null
+   },
+   {
+    "text": "решить,",
+    "startMs": 26500,
+    "endMs": 26890,
+    "timestampMs": 26695,
+    "confidence": null
+   },
+   {
+    "text": "какую",
+    "startMs": 26890,
+    "endMs": 27280,
+    "timestampMs": 27085,
+    "confidence": null
+   },
+   {
+    "text": "роль",
+    "startMs": 27280,
+    "endMs": 27650,
+    "timestampMs": 27465,
+    "confidence": null
+   },
+   {
+    "text": "такие",
+    "startMs": 27650,
+    "endMs": 28090,
+    "timestampMs": 27870,
+    "confidence": null
+   },
+   {
+    "text": "активы",
+    "startMs": 28090,
+    "endMs": 28630,
+    "timestampMs": 28360,
+    "confidence": null
+   },
+   {
+    "text": "будут",
+    "startMs": 28630,
+    "endMs": 28930,
+    "timestampMs": 28780,
+    "confidence": null
+   },
+   {
+    "text": "играть",
+    "startMs": 28930,
+    "endMs": 29290,
+    "timestampMs": 29110,
+    "confidence": null
+   },
+   {
+    "text": "в",
+    "startMs": 29290,
+    "endMs": 29550,
+    "timestampMs": 29420,
+    "confidence": null
+   },
+   {
+    "text": "вашем",
+    "startMs": 29550,
+    "endMs": 29890,
+    "timestampMs": 29720,
+    "confidence": null
+   },
+   {
+    "text": "инвестиционном",
+    "startMs": 29890,
+    "endMs": 30090,
+    "timestampMs": 29990,
+    "confidence": null
+   },
+   {
+    "text": "плане.",
+    "startMs": 30090,
+    "endMs": 30230,
+    "timestampMs": 30160,
+    "confidence": null
+   }
+  ]
+ },
+ "orders": {
+  "audio": "audio/intro/orders.wav",
+  "leadMs": 250,
+  "durationMs": 32001,
+  "captions": [
+   {
+    "text": "Когда",
+    "startMs": 10570,
+    "endMs": 10970,
+    "timestampMs": 10770,
+    "confidence": null
+   },
+   {
+    "text": "вы",
+    "startMs": 10970,
+    "endMs": 11130,
+    "timestampMs": 11050,
+    "confidence": null
+   },
+   {
+    "text": "выбрали",
+    "startMs": 11130,
+    "endMs": 11850,
+    "timestampMs": 11490,
+    "confidence": null
+   },
+   {
+    "text": "актив,",
+    "startMs": 11850,
+    "endMs": 12180,
+    "timestampMs": 12015,
+    "confidence": null
+   },
+   {
+    "text": "можно",
+    "startMs": 12180,
+    "endMs": 12920,
+    "timestampMs": 12550,
+    "confidence": null
+   },
+   {
+    "text": "отправить",
+    "startMs": 12920,
+    "endMs": 13270,
+    "timestampMs": 13095,
+    "confidence": null
+   },
+   {
+    "text": "заявку",
+    "startMs": 13270,
+    "endMs": 13730,
+    "timestampMs": 13500,
+    "confidence": null
+   },
+   {
+    "text": "на",
+    "startMs": 13730,
+    "endMs": 13880,
+    "timestampMs": 13805,
+    "confidence": null
+   },
+   {
+    "text": "покупку.",
+    "startMs": 13880,
+    "endMs": 14730,
+    "timestampMs": 14305,
+    "confidence": null
+   },
+   {
+    "text": "В",
+    "startMs": 14730,
+    "endMs": 14820,
+    "timestampMs": 14775,
+    "confidence": null
+   },
+   {
+    "text": "MInvest",
+    "startMs": 14820,
+    "endMs": 15490,
+    "timestampMs": 15155,
+    "confidence": null
+   },
+   {
+    "text": "доступны",
+    "startMs": 15490,
+    "endMs": 16120,
+    "timestampMs": 15805,
+    "confidence": null
+   },
+   {
+    "text": "разные",
+    "startMs": 16120,
+    "endMs": 16640,
+    "timestampMs": 16380,
+    "confidence": null
+   },
+   {
+    "text": "типы",
+    "startMs": 16640,
+    "endMs": 17050,
+    "timestampMs": 16845,
+    "confidence": null
+   },
+   {
+    "text": "ордеров:",
+    "startMs": 17050,
+    "endMs": 17770,
+    "timestampMs": 17410,
+    "confidence": null
+   },
+   {
+    "text": "рыночный,",
+    "startMs": 17770,
+    "endMs": 18610,
+    "timestampMs": 18190,
+    "confidence": null
+   },
+   {
+    "text": "лимитный,",
+    "startMs": 18610,
+    "endMs": 19460,
+    "timestampMs": 19035,
+    "confidence": null
+   },
+   {
+    "text": "стоп-ордер",
+    "startMs": 19460,
+    "endMs": 20220,
+    "timestampMs": 19840,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 20220,
+    "endMs": 20300,
+    "timestampMs": 20260,
+    "confidence": null
+   },
+   {
+    "text": "стоп-лимитный.",
+    "startMs": 20300,
+    "endMs": 21730,
+    "timestampMs": 21015,
+    "confidence": null
+   },
+   {
+    "text": "Они",
+    "startMs": 21730,
+    "endMs": 22040,
+    "timestampMs": 21885,
+    "confidence": null
+   },
+   {
+    "text": "помогают",
+    "startMs": 22040,
+    "endMs": 22990,
+    "timestampMs": 22515,
+    "confidence": null
+   },
+   {
+    "text": "задавать",
+    "startMs": 22990,
+    "endMs": 23340,
+    "timestampMs": 23165,
+    "confidence": null
+   },
+   {
+    "text": "разные",
+    "startMs": 23340,
+    "endMs": 23690,
+    "timestampMs": 23515,
+    "confidence": null
+   },
+   {
+    "text": "условия",
+    "startMs": 23690,
+    "endMs": 24190,
+    "timestampMs": 23940,
+    "confidence": null
+   },
+   {
+    "text": "для",
+    "startMs": 24190,
+    "endMs": 24400,
+    "timestampMs": 24295,
+    "confidence": null
+   },
+   {
+    "text": "сделки",
+    "startMs": 24400,
+    "endMs": 25320,
+    "timestampMs": 24860,
+    "confidence": null
+   },
+   {
+    "text": "—",
+    "startMs": 25320,
+    "endMs": 25321,
+    "timestampMs": 25320,
+    "confidence": null
+   },
+   {
+    "text": "например,",
+    "startMs": 25321,
+    "endMs": 25650,
+    "timestampMs": 25485,
+    "confidence": null
+   },
+   {
+    "text": "указать",
+    "startMs": 25650,
+    "endMs": 26040,
+    "timestampMs": 25845,
+    "confidence": null
+   },
+   {
+    "text": "цену",
+    "startMs": 26040,
+    "endMs": 26290,
+    "timestampMs": 26165,
+    "confidence": null
+   },
+   {
+    "text": "или",
+    "startMs": 26290,
+    "endMs": 26500,
+    "timestampMs": 26395,
+    "confidence": null
+   },
+   {
+    "text": "уровень,",
+    "startMs": 26500,
+    "endMs": 27130,
+    "timestampMs": 26815,
+    "confidence": null
+   },
+   {
+    "text": "при",
+    "startMs": 27130,
+    "endMs": 27270,
+    "timestampMs": 27200,
+    "confidence": null
+   },
+   {
+    "text": "котором",
+    "startMs": 27270,
+    "endMs": 27610,
+    "timestampMs": 27440,
+    "confidence": null
+   },
+   {
+    "text": "заявка",
+    "startMs": 27610,
+    "endMs": 28280,
+    "timestampMs": 27945,
+    "confidence": null
+   },
+   {
+    "text": "станет",
+    "startMs": 28280,
+    "endMs": 28410,
+    "timestampMs": 28345,
+    "confidence": null
+   },
+   {
+    "text": "активной.",
+    "startMs": 28410,
+    "endMs": 29170,
+    "timestampMs": 28790,
+    "confidence": null
+   },
+   {
+    "text": "Эти",
+    "startMs": 29170,
+    "endMs": 29440,
+    "timestampMs": 29305,
+    "confidence": null
+   },
+   {
+    "text": "варианты",
+    "startMs": 29440,
+    "endMs": 29860,
+    "timestampMs": 29650,
+    "confidence": null
+   },
+   {
+    "text": "мы",
+    "startMs": 29860,
+    "endMs": 29980,
+    "timestampMs": 29920,
+    "confidence": null
+   },
+   {
+    "text": "разберём",
+    "startMs": 29980,
+    "endMs": 30470,
+    "timestampMs": 30225,
+    "confidence": null
+   },
+   {
+    "text": "в",
+    "startMs": 30470,
+    "endMs": 30580,
+    "timestampMs": 30525,
+    "confidence": null
+   },
+   {
+    "text": "отдельном",
+    "startMs": 30580,
+    "endMs": 31100,
+    "timestampMs": 30840,
+    "confidence": null
+   },
+   {
+    "text": "уроке.",
+    "startMs": 31100,
+    "endMs": 31690,
+    "timestampMs": 31395,
+    "confidence": null
+   }
+  ]
+ },
+ "goal": {
+  "audio": "audio/intro/goal.wav",
+  "leadMs": 250,
+  "durationMs": 27281,
+  "captions": [
+   {
+    "text": "Перед",
+    "startMs": 12950,
+    "endMs": 12950,
+    "timestampMs": 12950,
+    "confidence": null
+   },
+   {
+    "text": "покупкой",
+    "startMs": 12951,
+    "endMs": 12952,
+    "timestampMs": 12950,
+    "confidence": null
+   },
+   {
+    "text": "полезно",
+    "startMs": 12952,
+    "endMs": 13300,
+    "timestampMs": 13125,
+    "confidence": null
+   },
+   {
+    "text": "сформулировать",
+    "startMs": 13300,
+    "endMs": 14440,
+    "timestampMs": 13870,
+    "confidence": null
+   },
+   {
+    "text": "цель",
+    "startMs": 14440,
+    "endMs": 14690,
+    "timestampMs": 14565,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 14690,
+    "endMs": 14770,
+    "timestampMs": 14730,
+    "confidence": null
+   },
+   {
+    "text": "проверить,",
+    "startMs": 14770,
+    "endMs": 15630,
+    "timestampMs": 15200,
+    "confidence": null
+   },
+   {
+    "text": "насколько",
+    "startMs": 15630,
+    "endMs": 16340,
+    "timestampMs": 15985,
+    "confidence": null
+   },
+   {
+    "text": "выбранный",
+    "startMs": 16340,
+    "endMs": 17070,
+    "timestampMs": 16705,
+    "confidence": null
+   },
+   {
+    "text": "актив",
+    "startMs": 17070,
+    "endMs": 17440,
+    "timestampMs": 17255,
+    "confidence": null
+   },
+   {
+    "text": "или",
+    "startMs": 17440,
+    "endMs": 17680,
+    "timestampMs": 17560,
+    "confidence": null
+   },
+   {
+    "text": "портфель",
+    "startMs": 17680,
+    "endMs": 18290,
+    "timestampMs": 17985,
+    "confidence": null
+   },
+   {
+    "text": "ей",
+    "startMs": 18290,
+    "endMs": 18450,
+    "timestampMs": 18370,
+    "confidence": null
+   },
+   {
+    "text": "соответствует.",
+    "startMs": 18450,
+    "endMs": 19880,
+    "timestampMs": 19165,
+    "confidence": null
+   },
+   {
+    "text": "Подборки,",
+    "startMs": 19880,
+    "endMs": 20760,
+    "timestampMs": 20320,
+    "confidence": null
+   },
+   {
+    "text": "аналитика",
+    "startMs": 20760,
+    "endMs": 21410,
+    "timestampMs": 21085,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 21410,
+    "endMs": 21520,
+    "timestampMs": 21465,
+    "confidence": null
+   },
+   {
+    "text": "новости",
+    "startMs": 21520,
+    "endMs": 22050,
+    "timestampMs": 21785,
+    "confidence": null
+   },
+   {
+    "text": "помогут",
+    "startMs": 22050,
+    "endMs": 22620,
+    "timestampMs": 22335,
+    "confidence": null
+   },
+   {
+    "text": "собрать",
+    "startMs": 22620,
+    "endMs": 23210,
+    "timestampMs": 22915,
+    "confidence": null
+   },
+   {
+    "text": "нужную",
+    "startMs": 23210,
+    "endMs": 23730,
+    "timestampMs": 23470,
+    "confidence": null
+   },
+   {
+    "text": "информацию",
+    "startMs": 23730,
+    "endMs": 24430,
+    "timestampMs": 24080,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 24430,
+    "endMs": 24520,
+    "timestampMs": 24475,
+    "confidence": null
+   },
+   {
+    "text": "принять",
+    "startMs": 24520,
+    "endMs": 25090,
+    "timestampMs": 24805,
+    "confidence": null
+   },
+   {
+    "text": "решение",
+    "startMs": 25090,
+    "endMs": 25700,
+    "timestampMs": 25395,
+    "confidence": null
+   },
+   {
+    "text": "более",
+    "startMs": 25700,
+    "endMs": 26050,
+    "timestampMs": 25875,
+    "confidence": null
+   },
+   {
+    "text": "осознанно.",
+    "startMs": 26050,
+    "endMs": 27150,
+    "timestampMs": 26600,
+    "confidence": null
+   }
+  ]
+ },
+ "summary": {
+  "audio": "audio/intro/summary.wav",
+  "leadMs": 250,
+  "durationMs": 22481,
+  "captions": [
+   {
+    "text": "Итак,",
+    "startMs": 11610,
+    "endMs": 11610,
+    "timestampMs": 11610,
+    "confidence": null
+   },
+   {
+    "text": "MInvest",
+    "startMs": 11611,
+    "endMs": 11860,
+    "timestampMs": 11735,
+    "confidence": null
+   },
+   {
+    "text": "помогает",
+    "startMs": 11860,
+    "endMs": 12510,
+    "timestampMs": 12185,
+    "confidence": null
+   },
+   {
+    "text": "изучать",
+    "startMs": 12510,
+    "endMs": 13260,
+    "timestampMs": 12885,
+    "confidence": null
+   },
+   {
+    "text": "компании",
+    "startMs": 13260,
+    "endMs": 13830,
+    "timestampMs": 13545,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 13830,
+    "endMs": 13960,
+    "timestampMs": 13895,
+    "confidence": null
+   },
+   {
+    "text": "инструменты,",
+    "startMs": 13960,
+    "endMs": 15060,
+    "timestampMs": 14510,
+    "confidence": null
+   },
+   {
+    "text": "искать",
+    "startMs": 15060,
+    "endMs": 15580,
+    "timestampMs": 15320,
+    "confidence": null
+   },
+   {
+    "text": "идеи,",
+    "startMs": 15580,
+    "endMs": 16330,
+    "timestampMs": 15955,
+    "confidence": null
+   },
+   {
+    "text": "собирать",
+    "startMs": 16330,
+    "endMs": 16790,
+    "timestampMs": 16560,
+    "confidence": null
+   },
+   {
+    "text": "портфель",
+    "startMs": 16790,
+    "endMs": 17510,
+    "timestampMs": 17150,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 17510,
+    "endMs": 17560,
+    "timestampMs": 17535,
+    "confidence": null
+   },
+   {
+    "text": "совершать",
+    "startMs": 17560,
+    "endMs": 18540,
+    "timestampMs": 18050,
+    "confidence": null
+   },
+   {
+    "text": "операции",
+    "startMs": 18540,
+    "endMs": 19050,
+    "timestampMs": 18795,
+    "confidence": null
+   },
+   {
+    "text": "с",
+    "startMs": 19050,
+    "endMs": 19140,
+    "timestampMs": 19095,
+    "confidence": null
+   },
+   {
+    "text": "ценными",
+    "startMs": 19140,
+    "endMs": 19810,
+    "timestampMs": 19475,
+    "confidence": null
+   },
+   {
+    "text": "бумагами",
+    "startMs": 19810,
+    "endMs": 20440,
+    "timestampMs": 20125,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 20440,
+    "endMs": 20580,
+    "timestampMs": 20510,
+    "confidence": null
+   },
+   {
+    "text": "криптовалютой.",
+    "startMs": 20580,
+    "endMs": 22230,
+    "timestampMs": 21405,
+    "confidence": null
+   }
+  ]
+ },
+ "next": {
+  "audio": "audio/intro/next.wav",
+  "leadMs": 250,
+  "durationMs": 19401,
+  "captions": [
+   {
+    "text": "А",
+    "startMs": 11960,
+    "endMs": 12080,
+    "timestampMs": 12020,
+    "confidence": null
+   },
+   {
+    "text": "в",
+    "startMs": 12080,
+    "endMs": 12850,
+    "timestampMs": 12465,
+    "confidence": null
+   },
+   {
+    "text": "следующих",
+    "startMs": 12850,
+    "endMs": 13060,
+    "timestampMs": 12955,
+    "confidence": null
+   },
+   {
+    "text": "уроках",
+    "startMs": 13060,
+    "endMs": 13660,
+    "timestampMs": 13360,
+    "confidence": null
+   },
+   {
+    "text": "мы",
+    "startMs": 13660,
+    "endMs": 13860,
+    "timestampMs": 13760,
+    "confidence": null
+   },
+   {
+    "text": "шаг",
+    "startMs": 13860,
+    "endMs": 14140,
+    "timestampMs": 14000,
+    "confidence": null
+   },
+   {
+    "text": "за",
+    "startMs": 14140,
+    "endMs": 14290,
+    "timestampMs": 14215,
+    "confidence": null
+   },
+   {
+    "text": "шагом",
+    "startMs": 14290,
+    "endMs": 14860,
+    "timestampMs": 14575,
+    "confidence": null
+   },
+   {
+    "text": "разберём,",
+    "startMs": 14860,
+    "endMs": 15900,
+    "timestampMs": 15380,
+    "confidence": null
+   },
+   {
+    "text": "как",
+    "startMs": 15900,
+    "endMs": 16160,
+    "timestampMs": 16030,
+    "confidence": null
+   },
+   {
+    "text": "устроены",
+    "startMs": 16160,
+    "endMs": 16960,
+    "timestampMs": 16560,
+    "confidence": null
+   },
+   {
+    "text": "рынок,",
+    "startMs": 16960,
+    "endMs": 17720,
+    "timestampMs": 17340,
+    "confidence": null
+   },
+   {
+    "text": "счёт",
+    "startMs": 17720,
+    "endMs": 18060,
+    "timestampMs": 17890,
+    "confidence": null
+   },
+   {
+    "text": "и",
+    "startMs": 18060,
+    "endMs": 18150,
+    "timestampMs": 18105,
+    "confidence": null
+   },
+   {
+    "text": "сделки.",
+    "startMs": 18150,
+    "endMs": 19190,
+    "timestampMs": 18670,
+    "confidence": null
+   }
+  ]
+ }
+}

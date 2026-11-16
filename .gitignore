@@ -1,0 +1,21 @@
+# зависимости и результаты рендера
+node_modules
+out
+
+# секреты
+.env
+.env.*
+!.env.example
+
+# рабочие файлы скилла real-sfx и скриптов
+work
+result
+events.json
+__pycache__
+*.pyc
+
+# система и редакторы
+.DS_Store
+.idea
+.vscode
+*.log

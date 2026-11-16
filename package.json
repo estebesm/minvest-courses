@@ -1,0 +1,32 @@
+{
+  "name": "minvest-courses",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio",
+    "render:demo": "remotion render DemoLesson out/demo-lesson.mp4",
+    "render:intro": "remotion render IntroLesson out/intro-lesson.mp4",
+    "qa:intro": "npm run render:intro && python3 scripts/idle-check.py out/intro-lesson.mp4",
+    "typecheck": "tsc --noEmit",
+    "qa": "npm run render:demo && python3 scripts/idle-check.py out/demo-lesson.mp4"
+  },
+  "dependencies": {
+    "@phosphor-icons/react": "2.1.10",
+    "@remotion/captions": "4.0.543",
+    "@remotion/cli": "4.0.543",
+    "@remotion/google-fonts": "4.0.543",
+    "@remotion/paths": "4.0.543",
+    "d3-scale": "4.0.2",
+    "d3-shape": "3.2.1",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.543"
+  },
+  "devDependencies": {
+    "@types/d3-scale": "4.0.9",
+    "@types/d3-shape": "3.1.7",
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}
