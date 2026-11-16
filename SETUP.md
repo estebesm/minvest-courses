@@ -20,8 +20,8 @@
 
 ## Список доступов — у кого что просить
 
-- [ ] **Папка проекта.** Проект пока не лежит в git, поэтому его передают архивом. В архив не нужно класть
-      `node_modules`, `out` и `.env`.
+- [ ] **GitHub:** приглашение в закрытый репозиторий <https://github.com/estebesm/minvest-courses>.
+      Просить у владельца репозитория.
 - [ ] **Папка скилла `real-sfx`** и **папка со звуками** (около 20 МБ вместе) — тоже архивом от того, кто вводит в проект.
 - [ ] **Figma:** приглашение в команду **M Invest** с правом редактирования файла
       <https://www.figma.com/design/Xp87Sqtajd8tpYkpruMXwH>. Просить у администратора команды в Figma.
@@ -56,7 +56,8 @@ ffmpeg -hide_banner -filters | grep -E "drawtext|rubberband"   # должны н
 ## Шаг 2. Проект
 
 ```bash
-cd путь/к/courses
+git clone https://github.com/estebesm/minvest-courses courses
+cd courses
 npm install
 npm run studio          # откроется редактор с предпросмотром в браузере
 npm run render:intro    # готовое видео появится в out/intro-lesson.mp4
@@ -150,7 +151,7 @@ cp .env.example .env
 
 Важно:
 
-- `.env` — личный файл. Он не попадает в архив и в git, ключ никому не пересылаем.
+- `.env` — личный файл. Он не попадает в git, ключ никому не пересылаем.
 - Озвучка платная при больших объёмах — следить за расходом в Google AI Studio.
 
 ## Проверка, что всё готово
