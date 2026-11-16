@@ -12,10 +12,9 @@
 import base64, difflib, json, os, re, subprocess, sys, tempfile, time, urllib.request, wave
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
-MODEL = 'gemini-3.8-flash-tts'
+MODEL = os.environ.get('VOICE_MODEL', 'gemini-3.1-flash-tts-preview')
 VOICE = 'Sulafat'  # женский, тёплый
-STYLE = ('Прочитай текст спокойным, ровным и дружелюбным женским голосом, без ярких эмоций и без спешки, '
-         'как доброжелательный преподаватель. Читай только сам текст: ')
+STYLE = 'Say in a calm, even, warm and friendly voice, without strong emotion, at an unhurried pace: '
 WHISPER = os.path.expanduser('~/.cache/whisper-cpp/ggml-large-v3-turbo.bin')
 LEAD_MS = 250
 
@@ -32,14 +31,14 @@ def tts(text, out):
                                  'speechConfig': {'voiceConfig': {'prebuiltVoiceConfig': {'voiceName': VOICE}}}}}
     req = urllib.request.Request(f'https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent',
                                  data=json.dumps(body).encode(), headers={'x-goog-api-key': key, 'Content-Type': 'application/json'})
-    for attempt in range(4):
+    for attempt in range(7):
         try:
             d = json.load(urllib.request.urlopen(req, timeout=180))
             part = d['candidates'][0]['content']['parts'][0]['inlineData']
             break
         except Exception as e:
-            if attempt == 3: raise
-            print('  повтор:', type(e).__name__, getattr(e, 'code', '')); time.sleep(5 * (attempt + 1))
+            if attempt == 6: raise
+            print('  повтор:', type(e).__name__, getattr(e, 'code', ''), (e.read()[:300] if hasattr(e, 'read') and getattr(e, 'code', 0) != 429 else '')); time.sleep(35)
     rate = int(re.search(r'rate=(\d+)', part.get('mimeType', '')).group(1)) if 'rate=' in part.get('mimeType', '') else 24000
     with wave.open(out, 'wb') as w:
         w.setnchannels(1); w.setsampwidth(2); w.setframerate(rate); w.writeframes(base64.b64decode(part['data']))
@@ -85,8 +84,15 @@ if __name__ == '__main__':
     for sid, text in scenes(lesson):
         wav = os.path.join(adir, f'{sid}.wav')
         if not align_only and (sid in only or not os.path.exists(wav)):
-            print('озвучка:', sid); tts(text, wav)
+            print('озвучка:', sid); tts(text, wav); time.sleep(20)
         caps, dur, missed = align(wav, text)
+        first, last = caps[0]['startMs'] - LEAD_MS, caps[-1]['endMs'] - LEAD_MS
+        if first > 400 or dur - last > 700:
+            a, b = max(0, first - 120) / 1000, min(dur, last + 350) / 1000
+            tmp = wav + '.tmp.wav'
+            subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', wav, '-ss', str(a), '-to', str(b), '-af', 'afade=t=in:d=0.02', tmp], check=True)
+            os.replace(tmp, wav)
+            caps, dur, missed = align(wav, text)
         out[sid] = {'audio': f'audio/{lesson}/{sid}.wav', 'leadMs': LEAD_MS, 'durationMs': dur, 'captions': caps}
         print(f'{sid:16s} {dur / 1000:6.2f} с   не распознано слов: {missed}')
     json.dump(out, open(os.path.join(ROOT, f'src/lessons/{lesson}/voice.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
